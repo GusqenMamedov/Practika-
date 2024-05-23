@@ -1,0 +1,14 @@
+D:\ИС-21\Авагян\WpfApp Хасан\bin\Debug\WpfApp Хасан.exe.config
+D:\ИС-21\Авагян\WpfApp Хасан\bin\Debug\WpfApp Хасан.exe
+D:\ИС-21\Авагян\WpfApp Хасан\bin\Debug\WpfApp Хасан.pdb
+D:\ИС-21\Авагян\WpfApp Хасан\obj\Debug\WpfApp Хасан.csproj.AssemblyReference.cache
+D:\ИС-21\Авагян\WpfApp Хасан\obj\Debug\MainWindow.baml
+D:\ИС-21\Авагян\WpfApp Хасан\obj\Debug\MainWindow.g.cs
+D:\ИС-21\Авагян\WpfApp Хасан\obj\Debug\App.g.cs
+D:\ИС-21\Авагян\WpfApp Хасан\obj\Debug\WpfApp Хасан_MarkupCompile.cache
+D:\ИС-21\Авагян\WpfApp Хасан\obj\Debug\WpfApp Хасан.g.resources
+D:\ИС-21\Авагян\WpfApp Хасан\obj\Debug\WpfApp_Хасан.Properties.Resources.resources
+D:\ИС-21\Авагян\WpfApp Хасан\obj\Debug\WpfApp Хасан.csproj.GenerateResource.cache
+D:\ИС-21\Авагян\WpfApp Хасан\obj\Debug\WpfApp Хасан.csproj.CoreCompileInputs.cache
+D:\ИС-21\Авагян\WpfApp Хасан\obj\Debug\WpfApp Хасан.exe
+D:\ИС-21\Авагян\WpfApp Хасан\obj\Debug\WpfApp Хасан.pdb
